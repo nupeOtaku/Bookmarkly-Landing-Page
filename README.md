@@ -1,6 +1,6 @@
-# Bookmark Website
+# Bookmark| A Bookmark Landing Page Website
 
-This web application is a simple bookmark manager created using React, Vite, and Tailwind CSS.
+This web application is a simple landing page for a bookmark managing website created using React, Vite, and Tailwind CSS.
 
 ## Description
 
